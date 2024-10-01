@@ -1,5 +1,5 @@
 # mydemo
-This is my first github repository
+how to covert binary to decimal
 # include <iostream>
 # include <math.h>
 using namespace std;
